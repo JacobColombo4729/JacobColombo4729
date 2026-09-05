@@ -1,16 +1,20 @@
 # Hi, I'm Jacob Colombo 👋
 
-### Data Scientist | AI Developer | Python Enthusiast
+### Data Scientist
 
-I'm an aspiring data scientist and AI developer with a background in financial risk and audit. After working in risk analysis and business processes, I transitioned into data science to pursue my passion for machine learning, artificial intelligence, and data-driven problem solving. I enjoy building practical projects that combine analytics, automation, and AI to solve real-world challenges.
+Data Scientist with a strong analytical foundation developed through experience as an Internal Audit Analyst at Citi
+and formal training in applied data analysis, problem-solving, and data-driven decision-making with hands-on
+experience in Python, Pandas, NumPy, SQL, and Machine Learning techniques. Skilled in exploratory data analysis,
+statistical data analysis, and data visualization, with a proven ability to translate complex datasets into actionable
+business insights.
 
 ## 🚀 What I'm Working On
 
-- Machine learning and predictive modeling projects
-- AI agents and multi-agent systems
-- Natural language processing and sentiment analysis
-- Data analysis and visualization
-- Python automation and intelligent applications
+ - Exploratory Data Analysis
+ - Statistical Data Analysis
+ - Data Visualization
+ - Complex/Unstructured Datasets
+ - Machine learning and predictive modeling projects
 
 ## 🛠️ Primary Skills
 
@@ -37,7 +41,6 @@ Open to remote opportunities and willing to relocate for the right position.
 ## 🎯 Fun Facts
 
 - I enjoy turning complex datasets into actionable insights.
-- I love experimenting with AI agents and emerging technologies.
 - I'm constantly building personal projects to expand my skills.
 - I believe the best way to learn is by building real solutions.
 
